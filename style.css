@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    bottom: 0;
+}
+
+.completed {
+ text-decoration: line-through solid rgb(0, 0, 0);   
+}
+
+.incomplete {
+    text-decoration: none;
+}
+
+.selected {
+    background-color: rgb(128, 128, 128)
+}
